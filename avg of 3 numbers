@@ -1,0 +1,14 @@
+def avg(n1,n2,n3):
+     return(n1+n2+n3)/3.0
+print("welcome")
+r1=int(input())
+r2=int(input())
+r3=int(input())
+rslt=avg(r1,r2,r3)
+print(rslt)
+print("thank you") 
+(or)
+def avg(n1,n2,n3):
+     return(n1+n2+n3)/3.0
+rslt=avg(n1=1,n2=2,n3=3)
+print(rslt)
